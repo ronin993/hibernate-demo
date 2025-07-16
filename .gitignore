@@ -23,4 +23,6 @@
 hs_err_pid*
 replay_pid*
 
-hibernate-hb-01-map-collections-set/.idea/
+.idea
+/.idea/
+*/.idea/
