@@ -1,0 +1,1 @@
+docker run -p 3000:80 --name feedback -v feedback:/app/feedback -v /mnt/c/workspace/docker-kubernetes-guide/data-volumes-01-starting-setup/:/app -v /app/node_modules  node-feedback-app:volumes
